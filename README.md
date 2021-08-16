@@ -11,15 +11,15 @@ others and make a greater impact.
 
 #### Technologies
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-![React](https://img.shields.io/badge/-React-007ACC?style=flat-square&logo=React&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-express-%23404d59?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=Visual+Studio+Code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white)
+![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-007ACC?style=flat-square&logo=React&logoColor=white)
+![Express](https://img.shields.io/badge/-express-%23404d59?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?style=flat&logo=bootstrap&logoColor=563D7C)
 ![JQuery](https://img.shields.io/badge/-JQuery-fff?style=flat&logo=jquery&logoColor=blue)
-![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white)
 ![Json](https://img.shields.io/badge/-Json-2C8EBB?style=flat-square&logo=JSon&logoColor=white)
 
 #### Databases
