@@ -11,6 +11,7 @@ others and make a greater impact.
 
 #### Technologies
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
+![POSTMAN](https://img.shields.io/badge/-Postman-F05032?style=flat-square&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VSC-007ACC?style=flat-square&logo=Visual+Studio+Code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white)
