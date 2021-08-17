@@ -1,6 +1,5 @@
 # Hi, I´m Wilmer 👋🏻🧑🏻‍💻
 
-<img src="https://raw.githubusercontent.com/devfrxg/devfrxg/main/238886365_233327598799662_4257930372914946626_n.jpg" alt="I am a Software Developer with aspiration to Full Stack Developer.">
 I am a Software Developer with aspiration to Full Stack Developer. I have fun and passion for working with JS technology and everything related to it. (TypeScript, VanillaJS, NodeJS) Beyond creating and solving problems, I am driven by the desire to help others and make a greater impact.
 
 #### Languages
