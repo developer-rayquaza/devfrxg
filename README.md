@@ -18,6 +18,7 @@ I am a Software Developer with aspiration to Full Stack Developer. I have fun an
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-007ACC?style=flat-square&logo=React&logoColor=white)
 ![Express](https://img.shields.io/badge/-express-%23404d59?style=flat-square&logo=express&logoColor=%2361DAFB)
+![VanillaJS](https://img.shields.io/badge/-Vanilla-ff6462?style=flat-square&logo=JavaScript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?style=flat&logo=bootstrap&logoColor=563D7C)
 ![JQuery](https://img.shields.io/badge/-JQuery-fff?style=flat&logo=jquery&logoColor=blue)
 ![Json](https://img.shields.io/badge/-Json-2C8EBB?style=flat-square&logo=JSon&logoColor=white)
